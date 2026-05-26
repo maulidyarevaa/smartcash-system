@@ -15,4 +15,4 @@ SmartCash System adalah sistem berbasis web yang digunakan untuk membantu pencat
 
 • [Figma](https://www.figma.com/design/HB0DsTmhbAPVFiBS8CwAwh/SmartCash-System?node-id=41-62&t=G2bCoIKDxEApags1-1)
 
-• [PPT](https://www.canva.com/design/DAHCaZi0PME/V5JRD9pO6hoKHV4dxG8K7Q/edit?utm_content=DAHCaZi0PME&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+• [PPT](https://canva.link/qdctr0fd3ndcidy)
